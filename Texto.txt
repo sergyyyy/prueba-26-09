@@ -1,0 +1,4 @@
+git clone para pasar de remoto a local
+creo los documentos de texto  
+add commit 
+ 
