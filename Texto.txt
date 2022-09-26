@@ -1,6 +1,6 @@
 git clone para pasar de remoto a local
 creo los documentos de texto  
-git add 
+git add (la polomita)
 git commit (texto) 
-git push
+git push para subir al remoto
  
