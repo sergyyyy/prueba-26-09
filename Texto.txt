@@ -3,4 +3,4 @@ creo los documentos de texto
 git add (la polomita)
 git commit (texto) 
 git push para subir al remoto
- 
+editado desde remoto
